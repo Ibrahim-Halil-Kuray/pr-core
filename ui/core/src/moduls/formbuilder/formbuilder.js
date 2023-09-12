@@ -240,8 +240,6 @@ function FT_FormBuilder(jqEl, options) {
         this.settingsTab = null
         this.init(jqEl, options)
 
-        }
-
-
-        export default FT_FormBuilder;
+}
+export default FT_FormBuilder;
 
